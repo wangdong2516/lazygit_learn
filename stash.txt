@@ -1,0 +1,2 @@
+use d to view discard options
+use S to view stash options
