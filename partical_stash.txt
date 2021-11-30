@@ -7,3 +7,7 @@ this line will be stash
 this line won't be stash
 this line won't be stash
 this line won't be stash
+add a new line
+lazygit patitcal stash
+you can use space to partical stash
+
